@@ -1,5 +1,5 @@
 ### Hi there, I'm Apurv👋
-## I'm a Full Stack Web developer 👨‍💻
+## I'm a Full Stack Developer 👨‍💻
 
 - ⚡ Fun fact: Logic is same, only syntax is different.
 - 📫 Let's Connect: 
