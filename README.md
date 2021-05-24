@@ -1,5 +1,5 @@
 ### Hi there, I'm Apurv👋
-## I'm a Full Stack Developer 👨‍💻
+<!-- ## I'm a Full Stack Developer 👨‍💻
 
 - ⚡ Fun fact: Logic is same, only syntax is different.
 - 📫 Let's Connect: 
@@ -33,7 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 
 
 <!--
