@@ -1,5 +1,6 @@
-### Hi there, I'm Apurv👋
-<!-- ## I'm a Full Stack Developer 👨‍💻
+<!-- ### Hi there,👋 -->
+## Hi there, I'm Apurv <img src="https://user-images.githubusercontent.com/53327173/121209643-a1332580-c898-11eb-8b31-d45b9f19c962.gif" width="25px">
+### I'm a Full Web Stack Developer 👨‍💻
 
 - ⚡ Fun fact: Logic is same, only syntax is different.
 - 📫 Let's Connect: 
@@ -18,6 +19,7 @@
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=apurv-1&layout=compact&theme=radical" />
 </a>
 
+<!-- 
 ## Languages and Tools 🛠 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
