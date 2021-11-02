@@ -1,6 +1,6 @@
 <!-- ### Hi there,👋 -->
 ## Hi there, I'm Apurv <img src="https://user-images.githubusercontent.com/53327173/121209643-a1332580-c898-11eb-8b31-d45b9f19c962.gif" width="25px">
-### I'm a Full Web Stack Developer 👨‍💻
+### I'm a Full Stack Web Developer 👨‍💻
 
 - ⚡ Fun fact: Logic is same, only syntax is different.
 - 📫 Let's Connect: 
@@ -10,14 +10,14 @@
 <a href="https://linkedin.com/in/apurv-gupta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<br />
+<!-- <br />
 
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=apurv-1&show_icons=true&include_all_commits=true&theme=radical" alt="apurv's github stats" />
 </a>
 <a href="https://github.com/apurv-1/github-readme-stats">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=apurv-1&layout=compact&theme=radical" />
-</a>
+</a> -->
 
 <!-- 
 ## Languages and Tools 🛠 
