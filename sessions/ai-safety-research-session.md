@@ -352,10 +352,8 @@ Send this to my mentor:
 > [redacted: draft message]
 
 I changed two things from the earlier draft, for these reasons:
-- **The `hawk` line.** `[maintainer]` reviewed 11 of your `hawk` PRs. That is almost certainly the same my mentor, so he already knows your work. Mentioning `hawk` reminds him who you are, and it shows why you are well placed to run this project.
-- **The last line.** It gives him an easy way to say no. It also doubles as the novelty check, because my mentor works at METR and would know if METR is already running this study.
-
-I have not confirmed that `[maintainer]` is the my mentor who wrote the ARC post. If he isn't, take out the `hawk` line, because it would read oddly to someone who hasn't seen your PRs.
+- [redacted]
+- **The last line.** It gives him an easy way to say no. It also doubles as the novelty check, because he would know if this study is already being run.
 
 ## Apurv
 
